@@ -1,9 +1,12 @@
 # Google Lens <img src="https://lh3.googleusercontent.com/H65Hxq0ooUCcwhoRGU-fwoXqrGS58mwa2vtr2ZfhGgJzMU0uYybOrZVBs8jydtR22TRC1k9XwDMD2xHB5BBU4IyXW7oH8PyCsq46uX6A42CmXP5GDZ2d" alt="Google Gemini" width="100"/>
 
 ## Introduction
-This project demonstrates the usage of the Google Lense.
-To use the google lense functionality, you need API of third party app called "serpapi".
-You can get API by doing Sign Up at : https://serpapi.com/
+This project demonstrates the usage of the Google Lense. 
+
+To use the Google Lense functionality, you need the API of a third-party app called "serpapi". 
+
+You can obtain the API by signing up at: [SerpApi Sign Up](https://serpapi.com/)
+
 Follow the steps below to set up and run the program.
 
 
